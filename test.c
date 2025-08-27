@@ -7,8 +7,8 @@
 #include <arpa/inet.h>
 #include <time.h>
 
-#define MAX_THREADS 100
-#define PAYLOAD_SIZE 1024  // Optimal payload size for most networks
+#define MAX_THREADS 700
+#define PAYLOAD_SIZE 724  // Optimal payload size for most networks
 
 // Expiry date (Format: YYYY-MM-DD)
 #define EXPIRY_DATE "2095-08-9"
